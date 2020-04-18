@@ -1,5 +1,9 @@
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
+## Forked from [sunil-sandhu/svelte-todo](https://github.com/sunil-sandhu/svelte-todo)
+
+# TUTORIAL [I created the exact same app in Vue and Svelte. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-vue-and-svelte-here-are-the-differences-c649f8d4ce0a)
+
 ---
 
 # svelte app
