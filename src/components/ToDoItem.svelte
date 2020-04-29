@@ -1,4 +1,4 @@
-<script>
+ <script>
   export let item;
   export let deleteItem;
 </script>

@@ -15,8 +15,8 @@
   },
   "scripts": {
     "build": "rollup -c",
-    "dev": "rollup -c -w",
-    "start": "sirv public --single",
+    "dev": "HOST=0.0.0.0 PORT=5001 rollup -c -w",
+    "start": "HOST=0.0.0.0 PORT=5001 sirv public --single",
     "start:dev": "sirv public --single --dev"
   }
 }

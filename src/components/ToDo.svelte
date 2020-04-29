@@ -1,6 +1,6 @@
 <script>
   import ToDoItem from "./ToDoItem.svelte";
-
+  const Logo = "../assets/logo.png";
 
   let todo = "";
   let list = [
@@ -8,9 +8,6 @@
     { id: 2, text: "buy milk" }
   ];
 
-
-
-  const Logo = "../assets/logo.png";
 
   const createNewToDoItem = () => {
     //validate todo
