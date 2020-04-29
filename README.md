@@ -1,3 +1,7 @@
+# Debug Chrome from VSC
+Launch Chrome from the command line:
+>`$ chromium-browser --remote-debugging-port=9222`
+
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ## Forked from [sunil-sandhu/svelte-todo](https://github.com/sunil-sandhu/svelte-todo)
